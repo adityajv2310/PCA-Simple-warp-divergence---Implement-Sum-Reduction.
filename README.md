@@ -29,6 +29,11 @@ Declare Main method/function . In the Main method , set up the device and initia
 Atlast , free the host and device memory then reset the device and check for results.
 
 # Program:
+```
+Developed by: Aditya JV
+Reg.No: 212220230002
+```
+
 kernel reduceUnrolling8
 ``` c
 #include <stdio.h>
